@@ -2,26 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33447527-339d-48a7-bb0f-07db72332d2a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/bootcamps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="." />
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="7ea16ncy" />
   </component>
   <component name="ProjectId" id="1ZkxyWNByqIv6A3XZbDfQVnqQgw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="flattenPackages" value="true" />
+    <option name="compactDirectories" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -29,7 +34,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,9 +45,26 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/../node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -58,7 +82,14 @@
       <workItem from="1585417854639" duration="175000" />
       <workItem from="1585418139463" duration="606000" />
       <workItem from="1585419855284" duration="725000" />
-      <workItem from="1585433753365" duration="1511000" />
+      <workItem from="1585433753365" duration="3153000" />
+      <workItem from="1585436917488" duration="359000" />
+      <workItem from="1585437350324" duration="239000" />
+      <workItem from="1585437639731" duration="14000" />
+      <workItem from="1585437658196" duration="205000" />
+      <workItem from="1585437994924" duration="74000" />
+      <workItem from="1585445239510" duration="51000" />
+      <workItem from="1585513822795" duration="133000" />
     </task>
     <servers />
   </component>
@@ -71,10 +102,18 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="2680" y="390" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585417878883">
+    <state x="2817" y="394" width="800" height="677" key="#Notifications" timestamp="1585445283995">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="2680" y="390" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585417878883" />
+    <state x="2817" y="394" width="800" height="677" key="#Notifications/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585445283995" />
+    <state x="2817" y="394" width="800" height="677" key="#Scopes" timestamp="1585437198327">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2817" y="394" width="800" height="677" key="#Scopes/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585437198327" />
+    <state x="2418" y="428" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585513955867">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2418" y="428" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585513955867" />
     <state x="2668" y="450" width="641" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585398034184">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
@@ -83,18 +122,42 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="2973" y="603" width="488" height="258" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585418529189" />
-    <state x="3005" y="431" width="424" height="603" key="FileChooserDialogImpl" timestamp="1585418014532">
+    <state x="2076" y="128" width="860" height="847" key="CommitChangelistDialog2" timestamp="1585436512245">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="3005" y="431" width="424" height="603" key="FileChooserDialogImpl/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585418014532" />
+    <state x="2076" y="128" width="860" height="847" key="CommitChangelistDialog2/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585436512245" />
+    <state x="3005" y="431" width="495" height="603" key="FileChooserDialogImpl" timestamp="1585513930710">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3005" y="431" width="495" height="603" key="FileChooserDialogImpl/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585513930710" />
+    <state width="2469" height="279" key="GridCell.Tab.0.bottom" timestamp="1585513997839">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2469" height="279" key="GridCell.Tab.0.bottom/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585513997839" />
+    <state width="2469" height="279" key="GridCell.Tab.0.center" timestamp="1585513997839">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2469" height="279" key="GridCell.Tab.0.center/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585513997839" />
+    <state width="2469" height="279" key="GridCell.Tab.0.left" timestamp="1585513997839">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2469" height="279" key="GridCell.Tab.0.left/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585513997839" />
+    <state width="2469" height="279" key="GridCell.Tab.0.right" timestamp="1585513997839">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2469" height="279" key="GridCell.Tab.0.right/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585513997839" />
     <state x="2808" y="431" width="1078" height="602" key="NewModule_or_Project.wizard" timestamp="1585418027389">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="2808" y="431" width="1078" height="602" key="NewModule_or_Project.wizard/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585418027389" />
-    <state x="2188" y="250" key="SettingsEditor" timestamp="1585435137777">
+    <state x="3092" y="242" width="1024" height="845" key="SettingsEditor" timestamp="1585513874135">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="2188" y="250" key="SettingsEditor/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585435137777" />
+    <state x="3092" y="242" width="1024" height="845" key="SettingsEditor/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585513874135" />
+    <state x="2531" y="459" width="1372" height="547" key="new project wizard" timestamp="1585438065667">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2531" y="459" width="1372" height="547" key="new project wizard/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585438065667" />
     <state x="2885" y="347" width="672" height="678" key="search.everywhere.popup" timestamp="1585434415753">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
