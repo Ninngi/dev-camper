@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33447527-339d-48a7-bb0f-07db72332d2a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controller/bootcamps.js" beforeDir="false" afterPath="$PROJECT_DIR$/../controller/bootcamps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routes/bootcamps.js" beforeDir="false" afterPath="$PROJECT_DIR$/../routes/bootcamps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +32,7 @@
   <component name="ProjectViewState">
     <option name="compactDirectories" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
@@ -47,11 +52,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/../node_modules/typescript/lib" />
   </component>
   <component name="RunManager">
@@ -92,7 +97,8 @@
       <workItem from="1585437994924" duration="74000" />
       <workItem from="1585445239510" duration="51000" />
       <workItem from="1585513822795" duration="487000" />
-      <workItem from="1585571129082" duration="60000" />
+      <workItem from="1585571129082" duration="2877000" />
+      <workItem from="1585574016319" duration="849000" />
     </task>
     <servers />
   </component>
@@ -200,14 +206,18 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="2808" y="431" width="1078" height="602" key="NewModule_or_Project.wizard/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585418027389" />
-    <state x="3092" y="242" width="1024" height="845" key="SettingsEditor" timestamp="1585513874135">
+    <state x="3092" y="242" width="1024" height="845" key="SettingsEditor" timestamp="1585574071408">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="3092" y="242" width="1024" height="845" key="SettingsEditor/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585513874135" />
+    <state x="3092" y="242" width="1024" height="845" key="SettingsEditor/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585574071408" />
     <state x="2531" y="459" width="1372" height="547" key="new project wizard" timestamp="1585438065667">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="2531" y="459" width="1372" height="547" key="new project wizard/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585438065667" />
+    <state x="2886" y="343" key="run.anything.popup" timestamp="1585574054994">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2886" y="343" key="run.anything.popup/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1585574054994" />
     <state x="2885" y="347" width="672" height="678" key="search.everywhere.popup" timestamp="1585434415753">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>

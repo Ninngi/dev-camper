@@ -4,46 +4,47 @@
 exports.getBootcamps = (req, res, next) => {
     res.status(200).json({
         success: true,
-        msg: "Show all bootcamps"
+        msg: 'Show all bootcamps.',
+        msg1: `${req.hello}`,
     })
 }
 
-// @decs    Get all bootcamps
-// @route   GET /api/v1/bootcamps
+// @decs    Get single bootcamp
+// @route   GET /api/v1/bootcamps/:id
 // @access  Public
-exports.getBootcamps = (req, res, next) => {
+exports.getBootcamp = (req, res, next) => {
     res.status(200).json({
         success: true,
-        msg: "Show all bootcamps"
+        msg: `Show bootcamp ${req.params.id}.`
     })
 }
 
-// @decs    Get all bootcamps
-// @route   GET /api/v1/bootcamps
-// @access  Public
-exports.getBootcamps = (req, res, next) => {
+// @decs    Create bootcamp
+// @route   POST /api/v1/bootcamps/
+// @access  Private
+exports.createBootcamp = (req, res, next) => {
     res.status(200).json({
         success: true,
-        msg: "Show all bootcamps"
+        msg: `Created a new bootcamp.`
     })
 }
 
-// @decs    Get all bootcamps
-// @route   GET /api/v1/bootcamps
-// @access  Public
-exports.getBootcamps = (req, res, next) => {
+// @decs    Update bootcamps
+// @route   PUT /api/v1/bootcamps/:id
+// @access  Private
+exports.updateBootcamp = (req, res, next) => {
     res.status(200).json({
         success: true,
-        msg: "Show all bootcamps"
+        msg: `Update bootcamp ${req.params.id}.`
     })
 }
 
-// @decs    Get all bootcamps
-// @route   GET /api/v1/bootcamps
-// @access  Public
-exports.getBootcamps = (req, res, next) => {
+// @decs    Delete bootcamp
+// @route   DELETE /api/v1/bootcamps/:id
+// @access  Private
+exports.deleteBootcamp = (req, res, next) => {
     res.status(200).json({
         success: true,
-        msg: "Show all bootcamps"
+        msg: `Delete bootcamp ${req.params.id}`
     })
 }
